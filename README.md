@@ -17,15 +17,15 @@ JavaScript: For interactivity and dynamic content management.
 Installation
 #### To use this template, simply clone or download the repository:
 
-bash
+
 Copy code
 <pre> git clone https://github.com/Adithyavijay/Admin-dashboard.git </pre> 
 Or download the ZIP file directly from the repository.
 
-Usage
+##### Usage
 Open the index.html file in your preferred web browser to view the dashboard. You can customize the template by editing the HTML, CSS, and JavaScript files to suit your needs.
 
-Customization
+###### Customization
 Feel free to modify the template to meet your specific requirements:
 
 HTML: Adjust the layout and add new sections as needed.
