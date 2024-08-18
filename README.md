@@ -1,4 +1,4 @@
-#Admin Dashboard Template 
+# Admin Dashboard Template   
 Welcome to the Admin Dashboard Template! This template is designed to be a flexible and user-friendly solution for managing and monitoring various aspects of your business or project. It is built using HTML, CSS, and JavaScript, ensuring compatibility and performance across different browsers and devices.
 
 Demo
