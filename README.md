@@ -26,12 +26,12 @@ Or download the ZIP file directly from the repository.
 Open the index.html file in your preferred web browser to view the dashboard. You can customize the template by editing the HTML, CSS, and JavaScript files to suit your needs.
 
 ###### Customization
-Feel free to modify the template to meet your specific requirements:
+Feel free to modify the template to meet your specific requirements:  
 
-HTML: Adjust the layout and add new sections as needed.
-CSS: Customize the styles to match your branding or design preferences.
-JavaScript: Enhance the functionality with additional scripts or modify existing ones.
-Contributing
+ ###### HTML: Adjust the layout and add new sections as needed.
+###### CSS: Customize the styles to match your branding or design preferences.
+###### JavaScript: Enhance the functionality with additional scripts or modify existing ones.
+##### Contributing
 If you'd like to contribute to the development of this template, feel free to fork the repository and submit a pull request. Any suggestions or improvements are welcome!
 
 
