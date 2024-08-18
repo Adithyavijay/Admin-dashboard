@@ -1,10 +1,10 @@
 # Admin Dashboard Template   
 Welcome to the Admin Dashboard Template! This template is designed to be a flexible and user-friendly solution for managing and monitoring various aspects of your business or project. It is built using HTML, CSS, and JavaScript, ensuring compatibility and performance across different browsers and devices.
 
-Demo
+## Demo
 Check out the live demo of the dashboard [here](https://adithyavijay.github.io/Admin-dashboard/)
 
-Features
+### Features
 Responsive Design: Optimized for both desktop and mobile devices, ensuring a seamless experience across different screen sizes.
 Dynamic Sidebar: A collapsible sidebar that provides easy access to different sections of the dashboard.
 Interactive Components: Includes interactive elements such as dropdown menus, notification panels, and task lists to enhance user engagement.
@@ -15,11 +15,11 @@ HTML: For the structure of the dashboard.
 CSS: For styling and responsive design, including the use of flexbox for layout management.
 JavaScript: For interactivity and dynamic content management.
 Installation
-To use this template, simply clone or download the repository:
+#### To use this template, simply clone or download the repository:
 
 bash
 Copy code
-git clone https://github.com/Adithyavijay/Admin-dashboard.git
+<pre> git clone https://github.com/Adithyavijay/Admin-dashboard.git </pre> 
 Or download the ZIP file directly from the repository.
 
 Usage
