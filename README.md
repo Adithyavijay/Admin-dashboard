@@ -2,7 +2,7 @@ Admin Dashboard Template
 Welcome to the Admin Dashboard Template! This template is designed to be a flexible and user-friendly solution for managing and monitoring various aspects of your business or project. It is built using HTML, CSS, and JavaScript, ensuring compatibility and performance across different browsers and devices.
 
 Demo
-Check out the live demo of the dashboard here.
+Check out the live demo of the dashboard [here](https://adithyavijay.github.io/Admin-dashboard/)
 
 Features
 Responsive Design: Optimized for both desktop and mobile devices, ensuring a seamless experience across different screen sizes.
